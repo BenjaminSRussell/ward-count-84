@@ -86,3 +86,6 @@
 {"n":86,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier south gutter. Matt keeps the barrel for the win. 6 steps, arc on the left lane, open."}
 {"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south gutter. arc left open. 7 steps. The barrel stays for the win."}
 {"n":88,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at the pier. Nobody past the south gutter. We win in 8 steps. Arc on the left lane, open."}
+{"n":89,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier south gutter. Nia keeps the barrel for the win. 2 steps, arc on the left lane, open."}
+{"n":90,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south gutter. arc left open. 3 steps. The barrel stays for the win."}
+{"n":91,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the pier. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
