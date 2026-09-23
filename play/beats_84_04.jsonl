@@ -937,3 +937,6 @@
 {"n":937,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Drydock. Nobody past the north gutter. We win in 6 steps. Arc on the left lane, open."}
 {"n":938,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock north gutter. Matt keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
 {"n":939,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. arc left open. 8 steps. The hydrant stays for the win."}
+{"n":940,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Drydock. Nobody past the north gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":941,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock north gutter. Nia keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
+{"n":942,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north gutter. arc left open. 4 steps. The hydrant stays for the win."}
