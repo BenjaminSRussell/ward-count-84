@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate south gutter. Ivo keeps the drum for the win. 2 steps, arc on the left lane, open."}
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south gutter. arc left open. 3 steps. The drum stays for the win."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Ward gate. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
+{"n":163,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate south gutter. Bess keeps the drum for the win. 5 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south gutter. arc left open. 6 steps. The drum stays for the win."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Kessler alley. Nobody past the south gutter. We win in 7 steps. Arc on the left lane, open."}
