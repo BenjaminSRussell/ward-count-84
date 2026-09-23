@@ -200,3 +200,6 @@
 {"n":200,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at the pier. Nobody past the south dock. We win in 8 steps. Arc on the left lane, open."}
 {"n":201,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier south dock. Nia keeps the drum for the win. 2 steps, arc on the left lane, open."}
 {"n":202,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south dock. arc left open. 3 steps. The drum stays for the win."}
+{"n":203,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at the pier. Nobody past the south dock. We win in 4 steps. Arc on the left lane, open."}
+{"n":204,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south dock. Ivo keeps the drum for the win. 5 steps, arc on the left lane, open."}
+{"n":205,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. arc left open. 6 steps. The drum stays for the win."}
