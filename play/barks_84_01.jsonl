@@ -956,3 +956,6 @@
 {"n":956,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west gutter. Ivo keeps the awning for the win. 7 steps, arc on the left lane, open."}
 {"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west gutter. arc left open. 8 steps. The awning stays for the win."}
 {"n":958,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Kessler alley. Nobody past the west gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":959,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west gutter. Bess keeps the awning for the win. 3 steps, arc on the left lane, open."}
+{"n":960,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west gutter. arc left open. 4 steps. The awning stays for the win."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at the Lot. Nobody past the west gutter. We win in 5 steps. Arc on the left lane, open."}
