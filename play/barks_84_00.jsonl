@@ -273,3 +273,6 @@
 {"n":273,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley south dock. Nia keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":274,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south dock. arc left open. 5 steps. The badge door stays for the win."}
 {"n":275,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Kessler alley. Nobody past the south dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":276,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley south dock. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":277,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south dock. arc left open. 8 steps. The badge door stays for the win."}
+{"n":278,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Kessler alley. Nobody past the south dock. We win in 2 steps. Arc on the left lane, open."}
