@@ -976,3 +976,6 @@
 {"n":976,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate north gutter. Ivo keeps the awning for the win. 2 steps, arc on the left lane, open."}
 {"n":977,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north gutter. arc left open. 3 steps. The awning stays for the win."}
 {"n":978,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Ward gate. Nobody past the north gutter. We win in 4 steps. Arc on the left lane, open."}
+{"n":979,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north gutter. Bess keeps the awning for the win. 5 steps, arc on the left lane, open."}
+{"n":980,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north gutter. arc left open. 6 steps. The awning stays for the win."}
+{"n":981,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Kessler alley. Nobody past the north gutter. We win in 7 steps. Arc on the left lane, open."}
