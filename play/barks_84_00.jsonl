@@ -159,3 +159,6 @@
 {"n":159,"kind":"place","name":"the Underpass south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass south dock. Bess keeps the drum for the win. 2 steps, arc on the left lane, open."}
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south dock. arc left open. 3 steps. The drum stays for the win."}
 {"n":161,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Mast yard. Nobody past the south dock. We win in 4 steps. Arc on the left lane, open."}
+{"n":162,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard south dock. Matt keeps the drum for the win. 5 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south dock. arc left open. 6 steps. The drum stays for the win."}
+{"n":164,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Mast yard. Nobody past the south dock. We win in 7 steps. Arc on the left lane, open."}
