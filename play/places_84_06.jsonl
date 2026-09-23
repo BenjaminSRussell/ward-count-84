@@ -700,3 +700,6 @@
 {"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south gutter. arc left open. 5 steps. The plywood stays for the win."}
 {"n":701,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at the Underpass. Nobody past the south gutter. We win in 6 steps. Arc on the left lane, open."}
 {"n":702,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass south gutter. Matt keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south gutter. arc left open. 8 steps. The plywood stays for the win."}
+{"n":704,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at the Underpass. Nobody past the south gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":705,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass south gutter. Nia keeps the plywood for the win. 3 steps, arc on the left lane, open."}
