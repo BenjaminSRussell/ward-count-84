@@ -389,3 +389,6 @@
 {"n":389,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south gutter. Nia keeps the lamp for the win. 8 steps, arc on the left lane, open."}
 {"n":390,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south gutter. arc left open. 2 steps. The lamp stays for the win."}
 {"n":391,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Mast yard. Nobody past the south gutter. We win in 3 steps. Arc on the left lane, open."}
+{"n":392,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south gutter. Ivo keeps the lamp for the win. 4 steps, arc on the left lane, open."}
+{"n":393,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south gutter. arc left open. 5 steps. The lamp stays for the win."}
+{"n":394,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Mast yard. Nobody past the south gutter. We win in 6 steps. Arc on the left lane, open."}
