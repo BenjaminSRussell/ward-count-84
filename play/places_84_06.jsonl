@@ -775,3 +775,6 @@
 {"n":775,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south gutter. arc left open. 3 steps. The plywood stays for the win."}
 {"n":776,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Switchyard. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
 {"n":777,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard south gutter. Nia keeps the plywood for the win. 5 steps, arc on the left lane, open."}
+{"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south gutter. arc left open. 6 steps. The plywood stays for the win."}
+{"n":779,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Switchyard. Nobody past the south gutter. We win in 7 steps. Arc on the left lane, open."}
+{"n":780,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south gutter. Ivo keeps the plywood for the win. 8 steps, arc on the left lane, open."}
