@@ -956,3 +956,6 @@
 {"n":956,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north gutter. Ivo keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
 {"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north gutter. arc left open. 5 steps. The hydrant stays for the win."}
 {"n":958,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at High line. Nobody past the north gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":959,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north gutter. Bess keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
+{"n":960,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north gutter. arc left open. 8 steps. The hydrant stays for the win."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Ward gate. Nobody past the north gutter. We win in 2 steps. Arc on the left lane, open."}
