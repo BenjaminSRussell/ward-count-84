@@ -185,3 +185,6 @@
 {"n":185,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south gutter. Nia keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":186,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south gutter. arc left open. 8 steps. The crate stays for the win."}
 {"n":187,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Stockyard fence. Nobody past the south gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":188,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south gutter. Ivo keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":189,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south gutter. arc left open. 4 steps. The crate stays for the win."}
+{"n":190,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Stockyard fence. Nobody past the south gutter. We win in 5 steps. Arc on the left lane, open."}
