@@ -475,3 +475,6 @@
 {"n":475,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Stockyard fence. Nobody past the west gutter. We win in 2 steps. Arc on the left lane, open."}
 {"n":476,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence west gutter. Ivo keeps the rebar for the win. 3 steps, arc on the left lane, open."}
 {"n":477,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west gutter. arc left open. 4 steps. The rebar stays for the win."}
+{"n":478,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the west gutter. We win in 5 steps. Arc on the left lane, open."}
+{"n":479,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence west gutter. Bess keeps the rebar for the win. 6 steps, arc on the left lane, open."}
+{"n":480,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west gutter. arc left open. 7 steps. The rebar stays for the win."}
