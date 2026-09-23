@@ -136,3 +136,6 @@
 {"n":136,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at High line. Nobody past the south gutter. We win in 7 steps. Arc on the left lane, open."}
 {"n":137,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south gutter. Nia keeps the barrel for the win. 8 steps, arc on the left lane, open."}
 {"n":138,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south gutter. arc left open. 2 steps. The barrel stays for the win."}
+{"n":139,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at High line. Nobody past the south gutter. We win in 3 steps. Arc on the left lane, open."}
+{"n":140,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south gutter. Ivo keeps the barrel for the win. 4 steps, arc on the left lane, open."}
+{"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south gutter. arc left open. 5 steps. The barrel stays for the win."}
