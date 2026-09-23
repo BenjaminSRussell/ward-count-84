@@ -349,3 +349,6 @@
 {"n":349,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the south gutter. We win in 3 steps. Arc on the left lane, open."}
 {"n":350,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south gutter. Matt keeps the lamp for the win. 4 steps, arc on the left lane, open."}
 {"n":351,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south gutter. arc left open. 5 steps. The lamp stays for the win."}
+{"n":352,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the south gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":353,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence south gutter. Nia keeps the lamp for the win. 7 steps, arc on the left lane, open."}
+{"n":354,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south gutter. arc left open. 8 steps. The lamp stays for the win."}
