@@ -859,3 +859,6 @@
 {"n":859,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south gutter. arc left open. 3 steps. The hydrant stays for the win."}
 {"n":860,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Mall court. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
 {"n":861,"kind":"place","name":"Mall court south gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court south gutter. Nia keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
+{"n":862,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south gutter. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":863,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Mall court. Nobody past the south gutter. We win in 7 steps. Arc on the left lane, open."}
+{"n":864,"kind":"place","name":"Mall court south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court south gutter. Ivo keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
