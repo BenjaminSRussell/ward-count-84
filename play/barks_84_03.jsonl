@@ -780,3 +780,6 @@
 {"n":780,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east gutter. Ivo keeps the rope for the win. 4 steps, arc on the left lane, open."}
 {"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east gutter. arc left open. 5 steps. The rope stays for the win."}
 {"n":782,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at High line. Nobody past the east gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":783,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east gutter. Bess keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east gutter. arc left open. 8 steps. The rope stays for the win."}
+{"n":785,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Ward gate. Nobody past the east gutter. We win in 2 steps. Arc on the left lane, open."}
