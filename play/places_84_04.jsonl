@@ -810,3 +810,6 @@
 {"n":810,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north gutter. arc left open. 5 steps. The hydrant stays for the win."}
 {"n":811,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Kessler alley. Nobody past the north gutter. We win in 6 steps. Arc on the left lane, open."}
 {"n":812,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north gutter. Ivo keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
+{"n":813,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north gutter. arc left open. 8 steps. The hydrant stays for the win."}
+{"n":814,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the north gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":815,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley north gutter. Bess keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
