@@ -473,3 +473,6 @@
 {"n":473,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley east gutter. Nia keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
 {"n":474,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east gutter. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":475,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Kessler alley. Nobody past the east gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":476,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley east gutter. Ivo keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":477,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east gutter. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":478,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the east gutter. We win in 2 steps. Arc on the left lane, open."}
