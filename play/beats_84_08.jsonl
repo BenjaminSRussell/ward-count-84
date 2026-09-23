@@ -63,3 +63,6 @@
 {"n":63,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Mast yard. Nobody past the south gutter. We win in 3 steps. Arc on the left lane, open."}
 {"n":64,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard south gutter. Ivo keeps the awning for the win. 4 steps, arc on the left lane, open."}
 {"n":65,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south gutter. arc left open. 5 steps. The awning stays for the win."}
+{"n":66,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Mast yard. Nobody past the south gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":67,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south gutter. Bess keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":68,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south gutter. arc left open. 8 steps. The awning stays for the win."}
