@@ -516,3 +516,6 @@
 {"n":516,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light south dock. Ivo keeps the radio coil for the win. 2 steps, arc on the left lane, open."}
 {"n":517,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south dock. arc left open. 3 steps. The radio coil stays for the win."}
 {"n":518,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Last Light. Nobody past the south dock. We win in 4 steps. Arc on the left lane, open."}
+{"n":519,"kind":"place","name":"Last Light south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light south dock. Bess keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
+{"n":520,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south dock. arc left open. 6 steps. The radio coil stays for the win."}
+{"n":521,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at South stair. Nobody past the south dock. We win in 7 steps. Arc on the left lane, open."}
