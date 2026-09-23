@@ -749,3 +749,6 @@
 {"n":749,"kind":"place","name":"Clinic roof north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof north gutter. Nia keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":750,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north gutter. arc left open. 8 steps. The plywood stays for the win."}
 {"n":751,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Clinic roof. Nobody past the north gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":752,"kind":"place","name":"Clinic roof north gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north gutter. Ivo keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north gutter. arc left open. 4 steps. The plywood stays for the win."}
+{"n":754,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Clinic roof. Nobody past the north gutter. We win in 5 steps. Arc on the left lane, open."}
