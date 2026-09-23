@@ -471,3 +471,6 @@
 {"n":471,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at the Lot. Nobody past the west gutter. We win in 4 steps. Arc on the left lane, open."}
 {"n":472,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
 {"n":473,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. arc left open. 6 steps. The radio coil stays for the win."}
+{"n":474,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at the Lot. Nobody past the west gutter. We win in 7 steps. Arc on the left lane, open."}
+{"n":475,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west gutter. Bess keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":476,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. arc left open. 2 steps. The radio coil stays for the win."}
