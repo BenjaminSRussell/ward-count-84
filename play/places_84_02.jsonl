@@ -434,3 +434,6 @@
 {"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west gutter. arc left open. 2 steps. The badge door stays for the win."}
 {"n":435,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at High line. Nobody past the west gutter. We win in 3 steps. Arc on the left lane, open."}
 {"n":436,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line west gutter. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
+{"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west gutter. arc left open. 5 steps. The badge door stays for the win."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at High line. Nobody past the west gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":439,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west gutter. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
