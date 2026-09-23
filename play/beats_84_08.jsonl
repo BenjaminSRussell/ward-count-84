@@ -408,3 +408,6 @@
 {"n":408,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at Last Light. Nobody past the south gutter. We win in 5 steps. Arc on the left lane, open."}
 {"n":409,"kind":"place","name":"Last Light south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light south gutter. Nia keeps the badge door for the win. 6 steps, arc on the left lane, open."}
 {"n":410,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south gutter. arc left open. 7 steps. The badge door stays for the win."}
+{"n":411,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Last Light. Nobody past the south gutter. We win in 8 steps. Arc on the left lane, open."}
+{"n":412,"kind":"place","name":"Last Light south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light south gutter. Ivo keeps the badge door for the win. 2 steps, arc on the left lane, open."}
+{"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south gutter. arc left open. 3 steps. The badge door stays for the win."}
