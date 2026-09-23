@@ -642,3 +642,6 @@
 {"n":642,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north gutter. arc left open. 5 steps. The plywood stays for the win."}
 {"n":643,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Kessler alley. Nobody past the north gutter. We win in 6 steps. Arc on the left lane, open."}
 {"n":644,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley north gutter. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":645,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north gutter. arc left open. 8 steps. The plywood stays for the win."}
+{"n":646,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Kessler alley. Nobody past the north gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":647,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north gutter. Bess keeps the plywood for the win. 3 steps, arc on the left lane, open."}
