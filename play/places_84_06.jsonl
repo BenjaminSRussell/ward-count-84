@@ -922,3 +922,6 @@
 {"n":922,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south gutter. arc left open. 3 steps. The hydrant stays for the win."}
 {"n":923,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at the pier. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south gutter. Ivo keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
+{"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south gutter. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the pier. Nobody past the south gutter. We win in 7 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier south gutter. Bess keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
