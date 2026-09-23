@@ -109,3 +109,6 @@
 {"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east gutter. arc left open. 5 steps. The barrel stays for the win."}
 {"n":110,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at High line. Nobody past the east gutter. We win in 6 steps. Arc on the left lane, open."}
 {"n":111,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east gutter. Bess keeps the barrel for the win. 7 steps, arc on the left lane, open."}
+{"n":112,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east gutter. arc left open. 8 steps. The barrel stays for the win."}
+{"n":113,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Ward gate. Nobody past the east gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":114,"kind":"place","name":"Ward gate east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east gutter. Matt keeps the crate for the win. 3 steps, arc on the left lane, open."}
