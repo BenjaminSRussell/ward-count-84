@@ -492,3 +492,6 @@
 {"n":492,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Ward gate. Nobody past the south gutter. We win in 5 steps. Arc on the left lane, open."}
 {"n":493,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate south gutter. Nia keeps the radio coil for the win. 6 steps, arc on the left lane, open."}
 {"n":494,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south gutter. arc left open. 7 steps. The radio coil stays for the win."}
+{"n":495,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Ward gate. Nobody past the south gutter. We win in 8 steps. Arc on the left lane, open."}
+{"n":496,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south gutter. Ivo keeps the radio coil for the win. 2 steps, arc on the left lane, open."}
+{"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south gutter. arc left open. 3 steps. The radio coil stays for the win."}
