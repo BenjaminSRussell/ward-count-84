@@ -749,3 +749,6 @@
 {"n":749,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east gutter. arc left open. 2 steps. The plywood stays for the win."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Switchyard. Nobody past the east gutter. We win in 3 steps. Arc on the left lane, open."}
 {"n":751,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east gutter. Bess keeps the plywood for the win. 4 steps, arc on the left lane, open."}
+{"n":752,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east gutter. arc left open. 5 steps. The plywood stays for the win."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Drydock. Nobody past the east gutter. We win in 6 steps. Arc on the left lane, open."}
+{"n":754,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east gutter. Matt keeps the plywood for the win. 7 steps, arc on the left lane, open."}
