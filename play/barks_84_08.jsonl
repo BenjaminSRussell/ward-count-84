@@ -220,3 +220,6 @@
 {"n":220,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the drum for the win. 6 steps, arc on the left lane, open."}
 {"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south gutter. arc left open. 7 steps. The drum stays for the win."}
 {"n":222,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at the Underpass. Nobody past the south gutter. We win in 8 steps. Arc on the left lane, open."}
+{"n":223,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south gutter. Bess keeps the drum for the win. 2 steps, arc on the left lane, open."}
+{"n":224,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south gutter. arc left open. 3 steps. The drum stays for the win."}
+{"n":225,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Mast yard. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
