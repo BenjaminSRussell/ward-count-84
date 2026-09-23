@@ -539,3 +539,6 @@
 {"n":539,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at the pier. Nobody past the south dock. We win in 4 steps. Arc on the left lane, open."}
 {"n":540,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south dock. Ivo keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
 {"n":541,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. arc left open. 6 steps. The radio coil stays for the win."}
+{"n":542,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at the pier. Nobody past the south dock. We win in 7 steps. Arc on the left lane, open."}
+{"n":543,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south dock. Bess keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":544,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south dock. arc left open. 2 steps. The radio coil stays for the win."}
