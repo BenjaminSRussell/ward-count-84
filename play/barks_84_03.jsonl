@@ -258,3 +258,6 @@
 {"n":258,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east gutter. Matt keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":259,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east gutter. arc left open. 8 steps. The crate stays for the win."}
 {"n":260,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Drydock. Nobody past the east gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":261,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock east gutter. Nia keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":262,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east gutter. arc left open. 4 steps. The crate stays for the win."}
+{"n":263,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Drydock. Nobody past the east gutter. We win in 5 steps. Arc on the left lane, open."}
