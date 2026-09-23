@@ -458,3 +458,6 @@
 {"n":458,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock south gutter. Matt keeps the lamp for the win. 7 steps, arc on the left lane, open."}
 {"n":459,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south gutter. arc left open. 8 steps. The lamp stays for the win."}
 {"n":460,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at Drydock. Nobody past the south gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":461,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock south gutter. Nia keeps the lamp for the win. 3 steps, arc on the left lane, open."}
+{"n":462,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south gutter. arc left open. 4 steps. The lamp stays for the win."}
+{"n":463,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Drydock. Nobody past the south gutter. We win in 5 steps. Arc on the left lane, open."}
