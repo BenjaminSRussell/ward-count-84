@@ -86,3 +86,6 @@
 {"n":86,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at High line. Nobody past the south dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":87,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south dock. Bess keeps the awning for the win. 7 steps, arc on the left lane, open."}
 {"n":88,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south dock. arc left open. 8 steps. The awning stays for the win."}
+{"n":89,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Ward gate. Nobody past the south dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":90,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south dock. Matt keeps the drum for the win. 3 steps, arc on the left lane, open."}
+{"n":91,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south dock. arc left open. 4 steps. The drum stays for the win."}
