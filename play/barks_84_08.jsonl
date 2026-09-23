@@ -430,3 +430,6 @@
 {"n":430,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier south gutter. Matt keeps the badge door for the win. 6 steps, arc on the left lane, open."}
 {"n":431,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south gutter. arc left open. 7 steps. The badge door stays for the win."}
 {"n":432,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at the pier. Nobody past the south gutter. We win in 8 steps. Arc on the left lane, open."}
+{"n":433,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south gutter. Nia keeps the badge door for the win. 2 steps, arc on the left lane, open."}
+{"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south gutter. arc left open. 3 steps. The badge door stays for the win."}
+{"n":435,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the pier. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
