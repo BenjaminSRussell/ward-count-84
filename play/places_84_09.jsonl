@@ -514,3 +514,6 @@
 {"n":514,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west stair. arc left open. 5 steps. The rebar stays for the win."}
 {"n":515,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Kessler alley. Nobody past the west stair. We win in 6 steps. Arc on the left lane, open."}
 {"n":516,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west stair. Ivo keeps the rebar for the win. 7 steps, arc on the left lane, open."}
+{"n":517,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west stair. arc left open. 8 steps. The rebar stays for the win."}
+{"n":518,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Kessler alley. Nobody past the west stair. We win in 2 steps. Arc on the left lane, open."}
+{"n":519,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west stair. Bess keeps the rebar for the win. 3 steps, arc on the left lane, open."}
