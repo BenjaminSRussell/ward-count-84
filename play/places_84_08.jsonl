@@ -599,3 +599,6 @@
 {"n":599,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south gutter. arc left open. 7 steps. The radio coil stays for the win."}
 {"n":600,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at the pier. Nobody past the south gutter. We win in 8 steps. Arc on the left lane, open."}
 {"n":601,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier south gutter. Nia keeps the radio coil for the win. 2 steps, arc on the left lane, open."}
+{"n":602,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south gutter. arc left open. 3 steps. The radio coil stays for the win."}
+{"n":603,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at the pier. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
+{"n":604,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier south gutter. Ivo keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
