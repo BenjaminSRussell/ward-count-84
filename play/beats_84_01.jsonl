@@ -610,3 +610,6 @@
 {"n":610,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Ward gate. Nobody past the west gutter. We win in 4 steps. Arc on the left lane, open."}
 {"n":611,"kind":"place","name":"Ward gate west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate west gutter. Bess keeps the rope for the win. 5 steps, arc on the left lane, open."}
 {"n":612,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west gutter. arc left open. 6 steps. The rope stays for the win."}
+{"n":613,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Kessler alley. Nobody past the west gutter. We win in 7 steps. Arc on the left lane, open."}
+{"n":614,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley west gutter. Matt keeps the rope for the win. 8 steps, arc on the left lane, open."}
+{"n":615,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west gutter. arc left open. 2 steps. The rope stays for the win."}
