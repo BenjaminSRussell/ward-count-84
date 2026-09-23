@@ -610,3 +610,6 @@
 {"n":610,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north gutter. Matt keeps the rebar for the win. 7 steps, arc on the left lane, open."}
 {"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north gutter. arc left open. 8 steps. The rebar stays for the win."}
 {"n":612,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Drydock. Nobody past the north gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":613,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north gutter. Nia keeps the rebar for the win. 3 steps, arc on the left lane, open."}
+{"n":614,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north gutter. arc left open. 4 steps. The rebar stays for the win."}
+{"n":615,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Drydock. Nobody past the north gutter. We win in 5 steps. Arc on the left lane, open."}
