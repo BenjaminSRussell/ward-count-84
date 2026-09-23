@@ -944,3 +944,6 @@
 {"n":944,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Switchyard. Nobody past the south gutter. We win in 4 steps. Arc on the left lane, open."}
 {"n":945,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard south gutter. Nia keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
 {"n":946,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south gutter. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":947,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Switchyard. Nobody past the south gutter. We win in 7 steps. Arc on the left lane, open."}
+{"n":948,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south gutter. Ivo keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
+{"n":949,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south gutter. arc left open. 2 steps. The hydrant stays for the win."}
