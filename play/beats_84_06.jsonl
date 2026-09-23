@@ -743,3 +743,6 @@
 {"n":743,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at South stair. Nobody past the south gutter. We win in 6 steps. Arc on the left lane, open."}
 {"n":744,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair south gutter. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south gutter. arc left open. 8 steps. The plywood stays for the win."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at South stair. Nobody past the south gutter. We win in 2 steps. Arc on the left lane, open."}
+{"n":747,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south gutter. Bess keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south gutter. arc left open. 4 steps. The plywood stays for the win."}
