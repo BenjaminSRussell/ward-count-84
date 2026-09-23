@@ -317,3 +317,6 @@
 {"n":317,"kind":"place","name":"the Lot east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot east gutter. Nia keeps the badge door for the win. 2 steps, arc on the left lane, open."}
 {"n":318,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east gutter. arc left open. 3 steps. The badge door stays for the win."}
 {"n":319,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the Lot. Nobody past the east gutter. We win in 4 steps. Arc on the left lane, open."}
+{"n":320,"kind":"place","name":"the Lot east gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot east gutter. Ivo keeps the badge door for the win. 5 steps, arc on the left lane, open."}
+{"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east gutter. arc left open. 6 steps. The badge door stays for the win."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at the Lot. Nobody past the east gutter. We win in 7 steps. Arc on the left lane, open."}
